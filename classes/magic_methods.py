@@ -1,3 +1,5 @@
+# Magic methods are called automatically whenever we instantiate a class
+
 class Point:
     def __init__(self, x, y):  # The methods with double underscore "__"
         self.x = x  # are the magic methods
