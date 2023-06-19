@@ -1,3 +1,6 @@
+# This are 3 examples of how to import files with the __init__.py
+# file and treat them like packages
+
 """
 import ecommerce.sales
 
